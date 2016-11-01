@@ -1,3 +1,5 @@
+var textIn;
+
 function reversal() {
 
 }
@@ -11,6 +13,8 @@ function palindrome() {
 }
 
 var testString = "";
+
+
 reversal(testString);
 alphabits(testString);
 palindrome(testString);
